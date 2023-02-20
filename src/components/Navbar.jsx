@@ -22,15 +22,15 @@ export default function Navbar() {
         <BsYoutube className="text-4xl text-brand" />
         <h1 className="ml-2 font-bold text-3xl">Youtube</h1>
       </Link>
-      <form onSubmit={handleSubmit} className="w-full flex justify-center">
+      <form onSubmit={handleSubmit} className="w-full flex justify-center ">
         <input
-          className="w-7/12 p-2 outline-none bg-black text-gray-50"
+          className="w-7/12 p-2 pl-6 outline-none bg-black text-gray-50 rounded-l-3xl"
           type="text"
           value={text}
           placeholder="Search..."
           onChange={(e) => setText(e.target.value)}
         />
-        <button className="px-4 bg-zinc-600">
+        <button className="px-6 bg-zinc-600 rounded-r-3xl">
           <BsSearch />
         </button>
       </form>

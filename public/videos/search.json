@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "5NJgJwMjs9S9FnxGue05BX-xE30",
+  "etag": "4Q_JmQxFLeHlxDG1QZdUZFVPfJQ",
   "nextPageToken": "CBkQAA",
   "regionCode": "US",
   "pageInfo": {
@@ -10,206 +10,36 @@
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "D_HYj7m9ZjvXwSyrqAOZs2-Xzg0",
+      "etag": "SoV813ZdtnxhZpww65pLiQrHqyI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "pmAgC0_kfgg"
+        "videoId": "D2oYKrz3D3k"
       },
       "snippet": {
-        "publishedAt": "2023-02-16T15:00:29Z",
-        "channelId": "UC4qa5EroJxnQM6Sng9WhgsQ",
-        "title": "Surfing the Most HISTORIC Big Wave in Panama",
-        "description": "Panama is known for a lot of things. Including: having great waves, however, one thing it's not really known for is big wave surfing.",
+        "publishedAt": "2019-12-31T07:38:01Z",
+        "channelId": "UCvVUEoHQDo7c2F9ws3XhrDA",
+        "title": "[서핑 강좌] 20분안에 프로서퍼처럼 서핑하는 방법 (초보-중상급)",
+        "description": "지나서프의 서핑 A to Z 클래스에는 아주 자세하고 빠방한 커리큘럼으로 준비되어있어용! [클래스 101 온라인 강의] ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/pmAgC0_kfgg/default.jpg",
+            "url": "https://i.ytimg.com/vi/D2oYKrz3D3k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/pmAgC0_kfgg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/D2oYKrz3D3k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/pmAgC0_kfgg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/D2oYKrz3D3k/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Ben Gravy",
+        "channelTitle": "지나서프JINASURF",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-02-16T15:00:29Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "_jFNo7t4yRax_zl_BxucS-jcR80",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "BUXHv0in8yc"
-      },
-      "snippet": {
-        "publishedAt": "2023-02-17T21:38:08Z",
-        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-        "title": "WATCH LIVE Hurley Pro Sunset Beach 2023 - Day 4",
-        "description": "Limited-edition 2023 Official Championship Tour tees available now: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/BUXHv0in8yc/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/BUXHv0in8yc/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/BUXHv0in8yc/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "World Surf League",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-02-17T21:38:08Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "BN0o3fMNk533NyXTB_8p7GvWnwU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "eSWST13stO4"
-      },
-      "snippet": {
-        "publishedAt": "2022-03-27T15:00:32Z",
-        "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
-        "title": "🔵4k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music☑️",
-        "description": "Waves of the World Filmers: Chris Kincade: https://www.instagram.com/chriskincade.wotw Andre Botha: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Waves of the World",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-03-27T15:00:32Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "D9Sp2OxTbG00G7rRujZ8BMjPGjs",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "zZqxPozl2Ec"
-      },
-      "snippet": {
-        "publishedAt": "2023-01-24T07:00:09Z",
-        "channelId": "UCEUYW6zm6KnUxPcwY1D8HsQ",
-        "title": "Surfing Massive Waves Waimea Bay (Jan 22, 2023)  4K",
-        "description": "What occurred on January 22, 2023, at Waimea Bay on the North Shore of Oahu is nothing short of historical. We're simply doing ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/zZqxPozl2Ec/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Eimy’s Hawaii Happy life 🏄🏻",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-01-24T07:00:09Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "9p782DRy5d1BCYzch6u18-tpETQ",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Dkj2TRFdtBs"
-      },
-      "snippet": {
-        "publishedAt": "2023-02-17T00:59:29Z",
-        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-        "title": "Kelly Slater vs Ethan Ewing | Hurley Pro Sunset Beach 2023 - Round of 16 Heat Replay",
-        "description": "Heat Replay of Kelly Slater vs Ethan Ewing at the Hurley Pro Sunset Beach 2023 - Round of 16 Limited-edition 2023 Official ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/Dkj2TRFdtBs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/Dkj2TRFdtBs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/Dkj2TRFdtBs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "World Surf League",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-02-17T00:59:29Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "58pPaqRwRds-e8RsKHWbkhV-PpA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "OHaKUMtxGTU"
-      },
-      "snippet": {
-        "publishedAt": "2023-01-11T09:44:18Z",
-        "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
-        "title": "SURFING THE CLEAREST WAVES EVER!? (RAW POV) + TESTING SURF GEAR [PT.2]",
-        "description": "In today's video, I surf the CLEAREST WAVES I have ever surfed! I also test out all the gear @HoStevie got me for Christmas!",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/OHaKUMtxGTU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/OHaKUMtxGTU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/OHaKUMtxGTU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Surfing With Noz",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-01-11T09:44:18Z"
+        "publishTime": "2019-12-31T07:38:01Z"
       }
     },
     {
@@ -248,240 +78,308 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "O3qAjTUPPN6n5sBLsEQHnnVPSFY",
+      "etag": "BN0o3fMNk533NyXTB_8p7GvWnwU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "xtHZKToMvus"
+        "videoId": "eSWST13stO4"
       },
       "snippet": {
-        "publishedAt": "2022-11-02T17:46:49Z",
-        "channelId": "UCTYHNSWYy4jCSCj1Q1Fq0ew",
-        "title": "Interlusion | A Billabong Surf Film Shot in the Mentawai Islands",
-        "description": "Welcome to the Interlusion. What happens when the best surf trip of former world champ Joel Parkinson's life happens years after ...",
+        "publishedAt": "2022-03-27T15:00:32Z",
+        "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
+        "title": "🔵4k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music☑️",
+        "description": "Waves of the World Filmers: Chris Kincade: https://www.instagram.com/chriskincade.wotw Andre Botha: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xtHZKToMvus/default.jpg",
+            "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xtHZKToMvus/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xtHZKToMvus/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Billabong",
+        "channelTitle": "Waves of the World",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-11-02T17:46:49Z"
+        "publishTime": "2022-03-27T15:00:32Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "f1Fc94uJKvzXIojSmenFDP1ct_8",
+      "etag": "WnwSr0oNyq3F4GRl3WqUh0isRPM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "pmlzdeZuAk8"
+        "videoId": "XE2T6cSQ0TM"
       },
       "snippet": {
-        "publishedAt": "2021-02-27T14:28:13Z",
-        "channelId": "UCxkIzPnPzWLz4IeuxIROflg",
-        "title": "What Surfing Is ACTUALLY Like as a Beginner",
-        "description": "See what it's actually like to surf as a beginner, including why it's fun and why it kind of sucks at times! Click below to join the ...",
+        "publishedAt": "2020-05-25T11:05:41Z",
+        "channelId": "UCZruvvKnJfQptOPI_9iIBHg",
+        "title": "서핑의 정점 삼대장들의 베스트 라이딩 #SURF",
+        "description": "서핑의 정점 삼대장들의 베스트 라이딩 주관적인 베스트 라이딩입니다. #SURF #서핑 #휴가 #WSL #SPORT.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/default.jpg",
+            "url": "https://i.ytimg.com/vi/XE2T6cSQ0TM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XE2T6cSQ0TM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/pmlzdeZuAk8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XE2T6cSQ0TM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Travis Marziani",
+        "channelTitle": "LUKAS KIM",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-02-27T14:28:13Z"
+        "publishTime": "2020-05-25T11:05:41Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "WEQqNFVYpoEm8dK3eshq1nsEa_Y",
+      "etag": "uN55ekkngpITtBWRYmREjWIWHUM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "H17i_5-ebrc"
+        "videoId": "3CALFl_xHn0"
       },
       "snippet": {
-        "publishedAt": "2020-09-11T12:16:32Z",
-        "channelId": "UCeSRjhfeeqIgr--AcP9qhyg",
-        "title": "Largest wave surfed - Guinness World Records",
-        "description": "Subscribe to never miss a video! || https://gwr.co/YT-Sub Check out the GWR favourites! || http://gwr.co/YT-Favs ▷ Order Guinness ...",
+        "publishedAt": "2022-11-07T19:00:01Z",
+        "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
+        "title": "DANGEROUS STORM DRAIN SURFING (HAWAII)",
+        "description": "STAY PSYCHED MERCHANDISE: https://staypsyched.com - JAMIE O'BRIEN SURF SCHOOL TURTLE BAY HAWAII ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/H17i_5-ebrc/default.jpg",
+            "url": "https://i.ytimg.com/vi/3CALFl_xHn0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/H17i_5-ebrc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3CALFl_xHn0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/H17i_5-ebrc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/3CALFl_xHn0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Guinness World Records",
+        "channelTitle": "Jamie O'Brien",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-09-11T12:16:32Z"
+        "publishTime": "2022-11-07T19:00:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ymivo6UiK1TYGPk6eICPzPeUSDw",
+      "etag": "IF6uurh-Xym9IYJbvjfIX3_7AJw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "haI-j4y8pXE"
+        "videoId": "NryZytBiMiQ"
       },
       "snippet": {
-        "publishedAt": "2022-05-26T09:03:54Z",
-        "channelId": "UCoicMEw3njXscfwHlaAJVcQ",
-        "title": "SURFING THE GLASSIEST WAVES EVER! (RAW POV)",
-        "description": "POV Surfing some of the GLASSIEST waves I've ever ridden! This RAW session was absolute magic Business Enquiries: ...",
+        "publishedAt": "2022-08-05T09:13:53Z",
+        "channelId": "UC3D36AlsglvK6_ZVEYfUKqg",
+        "title": "서핑하는 내 모습 상상 vs 현실",
+        "description": "청춘기록 #서핑 #여행.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/haI-j4y8pXE/default.jpg",
+            "url": "https://i.ytimg.com/vi/NryZytBiMiQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/haI-j4y8pXE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NryZytBiMiQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/haI-j4y8pXE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/NryZytBiMiQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Surfing With Noz",
+        "channelTitle": "청춘기록 : RECODE OF YOUTH",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-05-26T09:03:54Z"
+        "publishTime": "2022-08-05T09:13:53Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "5oMzuwSgwOLXxPQOfL8JbyWheoI",
+      "etag": "8xU4UiCnpF2OlJCpZTlo4TEwn5c",
       "id": {
         "kind": "youtube#video",
-        "videoId": "bJpa_60UlNE"
+        "videoId": "S4YWZhqFNrQ"
       },
       "snippet": {
-        "publishedAt": "2023-01-23T03:29:18Z",
-        "channelId": "UC4i3-yfVazfuqwoz71T79Sw",
-        "title": "The 2023 Eddie Aikau Big Wave Invitational at Waimea Bay",
-        "description": "World's most iconic big-wave event returns to Waimea Bay. WHAT ARE WE WATCHING? The word “unique” is thrown around a ...",
+        "publishedAt": "2022-07-21T04:30:06Z",
+        "channelId": "UCFCtZJTuJhE18k8IXwmXTYQ",
+        "title": "포르투갈 서핑의 명소 나자레! 거대하게 밀려오는 파도를 뚫고 내려오는 서핑에 빠진 사람들",
+        "description": "서퍼들이 한번쯤 가보고 싶은 나자레의 멋지고 높은 파도들이 몰려오는 풍경이 정말 장엄하고 멋있습니다. #다큐 #다큐멘터리 #인간 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/bJpa_60UlNE/default.jpg",
+            "url": "https://i.ytimg.com/vi/S4YWZhqFNrQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/bJpa_60UlNE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S4YWZhqFNrQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/bJpa_60UlNE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/S4YWZhqFNrQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Surfline",
+        "channelTitle": "EBSDocumentary (EBS 다큐)",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-01-23T03:29:18Z"
+        "publishTime": "2022-07-21T04:30:06Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "yliUafG6cdfUaqiO-KxEp6LtJhI",
+      "etag": "Aay9Mw59SIH3X18h4TfI-I4Mhjo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "-vBUxmWeoc0"
+        "videoId": "EUKBEMN6HTQ"
       },
       "snippet": {
-        "publishedAt": "2022-01-09T18:00:00Z",
-        "channelId": "UCINb0wqPz-A0dV9nARjJlOQ",
-        "title": "This Hawaiian Cat Loves Surfing With His Parents | The Dodo",
-        "description": "In Honolulu, Hawaii, Hokule'a is one special cat. He loves surfing and swimming with his human parents! You can keep up with ...",
+        "publishedAt": "2018-08-10T12:58:25Z",
+        "channelId": "UCYgUhR7EGKauFXgJS0pckGg",
+        "title": "(ENG SUB) 이번 여름 필수 코스! 외국 같은 양양에서 서핑으로 더위 뿌셔봄 | 와썹맨 ep.24 | god 박준형",
+        "description": "본 영상은 나테라코리아왁스/롯데주류밀러/코오롱FNC의 유료광고를 포함하고 있습니다. 요오우~ 국내 서핑 핫플 강원도 양양 다녀와 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/-vBUxmWeoc0/default.jpg",
+            "url": "https://i.ytimg.com/vi/EUKBEMN6HTQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/-vBUxmWeoc0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EUKBEMN6HTQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/-vBUxmWeoc0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EUKBEMN6HTQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The Dodo",
+        "channelTitle": "와썹맨-Wassup Man",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-01-09T18:00:00Z"
+        "publishTime": "2018-08-10T12:58:25Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "9rbvyQv675vNp2kUmgK7zkWnSlQ",
+      "etag": "jilib_iE7RvrpD-eO1BFqSqNRPc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "rj7xMBxd5iY"
+        "videoId": "n4eW8hUjqcA"
       },
       "snippet": {
-        "publishedAt": "2017-11-12T11:09:52Z",
-        "channelId": "UCiiFGfvlKvX3uzMovO3unaw",
-        "title": "BIG WAVE SURFING COMPILATION 2017",
-        "description": "BIG WAVE SURFING COMPILATION 2017 ** REVISED **AMAZING FOOTAGE ** WITH 60-100FT- HUGE SURF Please ...",
+        "publishedAt": "2023-02-17T00:03:18Z",
+        "channelId": "UC-VbFgagk6GJGDJgRQIMpZw",
+        "title": "❄한국 겨울 파도🌊에 도전장을 내민 캐나다 친구들! 과연 서핑 실력은? l #어서와한국은처음이지 l #MBCevery1 l EP.283",
+        "description": "본격적인 크레이지 어드벤처를 위해 친구들이 찾은 여행지는? ▷ 아름다운 강릉 바다를 즐기는 크레이지한 방법! 역대급 한파 속 겨울 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/rj7xMBxd5iY/default.jpg",
+            "url": "https://i.ytimg.com/vi/n4eW8hUjqcA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/rj7xMBxd5iY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/n4eW8hUjqcA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/rj7xMBxd5iY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/n4eW8hUjqcA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Absolutely Flawless",
+        "channelTitle": "MBC every1",
         "liveBroadcastContent": "none",
-        "publishTime": "2017-11-12T11:09:52Z"
+        "publishTime": "2023-02-17T00:03:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VZnV6tXXBykH4QsVKKnfrQEkYa8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iUWWWnfPqL8"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-28T05:32:26Z",
+        "channelId": "UCsLoTwOpElvEixfF1-O90rA",
+        "title": "엄청나게 아름답고 믿을 수 없게 아찔한, 세계적인 서퍼 가렛 맥나마라의(Garrett McNamara) 파도 타기",
+        "description": "뇌섹남 타일러의 포르투갈 여행. 전 세계 서퍼들의 파도타기 명소 포르투갈 나자레(Nazare) 해변. 미국인 서퍼 가렛 맥나마라(Garrett ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iUWWWnfPqL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iUWWWnfPqL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iUWWWnfPqL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EBS 컬렉션 - 라이프스타일",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-28T05:32:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PLapq9_zyOnHKklh9qchW6K6_P4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oPofDpqTH3g"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-20T08:00:20Z",
+        "channelId": "UCYgUhR7EGKauFXgJS0pckGg",
+        "title": "(ENG SUB)🏝발리에서 물 만난 반백살🏝  30년 경력자의 바다 서핑부터 셰프 추천 나시고랭 먹방까지 야무진 발리 여행 1탄 l 와썹맨 ep.81ㅣgod 박준형",
+        "description": "요오우~~!! 오느른 울꼬맹쓰드리 마는요청으로 드디어 발리에다녀와썹~~!!발리가 서핑하는사람드란테는 너무조은곳이라 기대마니 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oPofDpqTH3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oPofDpqTH3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oPofDpqTH3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "와썹맨-Wassup Man",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-20T08:00:20Z"
       }
     },
     {
@@ -520,342 +418,444 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "YCoZ9YKNI7Ep_naA_Zh_sfqAYjw",
+      "etag": "uptcwb1XR9ImNXEihEpS10h9s7E",
       "id": {
         "kind": "youtube#video",
-        "videoId": "VUAVmAEg2Aw"
+        "videoId": "1kYt6HE6d6Y"
       },
       "snippet": {
-        "publishedAt": "2023-02-17T11:00:32Z",
-        "channelId": "UCzcQOTuXYGuCvTekySb_CeQ",
-        "title": "Pro-Level Positioning (Opening Scene) - Keramas",
-        "description": "When a small group of surfers scrambled to get into position for the first couple of waves of this video, it was local pro Bronson ...",
+        "publishedAt": "2021-08-04T09:00:01Z",
+        "channelId": "UCTj67Hns0DZi6PmzzKR1MpQ",
+        "title": "서핑하는 한소희는 못 참지..! 한소희 입덕 모먼트 모음집 | [클립냠냠🖇] MBN 190811 방송 외",
+        "description": "예능 나온 한소희는 못 참지! 희귀 영상 서핑하는 한소희 입덕 모먼트 #클립냠냠 #바다가들린다 #한소희 #유나비 #여다경 #서핑 #정크 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/VUAVmAEg2Aw/default.jpg",
+            "url": "https://i.ytimg.com/vi/1kYt6HE6d6Y/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/VUAVmAEg2Aw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1kYt6HE6d6Y/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/VUAVmAEg2Aw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/1kYt6HE6d6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "댓글만찬",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-04T09:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o3ONp0tDwVzxKueAoT21fp1NTNo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B50PgasDDzI"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-15T11:01:42Z",
+        "channelId": "UCsCH4XJfboBz4AQoQIbiphQ",
+        "title": "제주 중문 서핑",
+        "description": "제주서핑 . . . #서핑 #액션플랜 #서퍼 #패들보드 #제주서핑 #인생사진 . . . . . #일상 #제주 #제주도 #제주여행 #제주맛집 #제주도여행 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B50PgasDDzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B50PgasDDzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B50PgasDDzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jeju surfing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-15T11:01:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xKtWzv-PqvAtX1kIutqLc15Nuzc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CvOcaOau37M"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-02T06:03:17Z",
+        "channelId": "UCTzPdgu9hZjpE45ayqg1Q9w",
+        "title": "미국에서 서핑 입문하기 🌊 장비 풀세트 구비부터 본격 서핑에 푹 빠지기까지✨",
+        "description": "서핑에 푹 빠진 미국일상 Vlog Products in this video 00:38 셔츠_ J.Crew 목걸이_ Ana Luisa 04:28 선글라스_ Ray ben 귀걸이_ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CvOcaOau37M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CvOcaOau37M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CvOcaOau37M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "보르밍 boreuming",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-02T06:03:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ekuDqbDN5c_kMaXINNhJUcJOdt0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2gU25IpvqqI"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-01T11:15:00Z",
+        "channelId": "UCFCtZJTuJhE18k8IXwmXTYQ",
+        "title": "최대 파도 높이 30m! 서핑 메카 &#39;나자레&#39; 🏄‍♂️ 전설의 서퍼 &#39;맥나마라&#39;의 파도타기!! | 세계테마기행 | #골라듄다큐",
+        "description": "전 세계 서퍼들의 파도타기 명소!! 포르투갈 '나자레(Nazare)해변' 포르투갈 리스본에서 북쪽으로 125km를 가면 대서양을 바라보는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2gU25IpvqqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2gU25IpvqqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2gU25IpvqqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EBSDocumentary (EBS 다큐)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-01T11:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eQpR6CZY3NVHPaiXs8vi0pRoFDk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0nS9m_3qQXM"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-30T17:38:52Z",
+        "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
+        "title": "🔵 4k (ASMR) Teahupoo April/May 2022 - Waves of the World Surfing 🌊",
+        "description": "Filmed by Boris Martinet: https://www.instagram.com/bogus689. Official Waves of the World live stream! Fall asleep or just relax ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0nS9m_3qQXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0nS9m_3qQXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0nS9m_3qQXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Waves of the World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-30T17:38:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yliUafG6cdfUaqiO-KxEp6LtJhI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-vBUxmWeoc0"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-09T18:00:00Z",
+        "channelId": "UCINb0wqPz-A0dV9nARjJlOQ",
+        "title": "This Hawaiian Cat Loves Surfing With His Parents | The Dodo",
+        "description": "In Honolulu, Hawaii, Hokule'a is one special cat. He loves surfing and swimming with his human parents! You can keep up with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-vBUxmWeoc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-vBUxmWeoc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-vBUxmWeoc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Dodo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-09T18:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "umaUdu_OIxVpALhU43aNpy2NaDs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NoI10t1yks0"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-07T04:14:13Z",
+        "channelId": "UC4N-y2l7k_aU7fBZ4kzKhmA",
+        "title": "서핑 대형사고 아이린 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NoI10t1yks0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NoI10t1yks0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NoI10t1yks0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "대출왕",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-07T04:14:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Wo4DwRY5KcOf5r87ODf1j39rkvs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R7MCBemcEpc"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-18T11:00:17Z",
+        "channelId": "UCzcQOTuXYGuCvTekySb_CeQ",
+        "title": "What Happens When It Blows Offshore All Night? – Keramas",
+        "description": "After steady westerly wind blew all night, it was an extremely groomed looking lineup that greeted the morning crew at Keramas a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R7MCBemcEpc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R7MCBemcEpc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R7MCBemcEpc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Surfers of Bali",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-02-17T11:00:32Z"
+        "publishTime": "2023-02-18T11:00:17Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "CGFaBeqX53fnsFBIjS_guVK2bwo",
+      "etag": "9rbvyQv675vNp2kUmgK7zkWnSlQ",
       "id": {
         "kind": "youtube#video",
-        "videoId": "SnDiTI6j2IM"
+        "videoId": "rj7xMBxd5iY"
       },
       "snippet": {
-        "publishedAt": "2023-02-09T15:00:19Z",
-        "channelId": "UC4qa5EroJxnQM6Sng9WhgsQ",
-        "title": "Surfing the PIPELINE of Panama!?",
-        "description": "What a journey it's been to get here. Not only the extreme travel scenarios that it took to actually make it to Panama, but the mental ...",
+        "publishedAt": "2017-11-12T11:09:52Z",
+        "channelId": "UCiiFGfvlKvX3uzMovO3unaw",
+        "title": "BIG WAVE SURFING COMPILATION 2017",
+        "description": "BIG WAVE SURFING COMPILATION 2017 ** REVISED **AMAZING FOOTAGE ** WITH 60-100FT- HUGE SURF Please ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/SnDiTI6j2IM/default.jpg",
+            "url": "https://i.ytimg.com/vi/rj7xMBxd5iY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/SnDiTI6j2IM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rj7xMBxd5iY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/SnDiTI6j2IM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/rj7xMBxd5iY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Ben Gravy",
+        "channelTitle": "Absolutely Flawless",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-02-09T15:00:19Z"
+        "publishTime": "2017-11-12T11:09:52Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "B60x8X_W8e9w_Q1JDoeyfdA0AFw",
+      "etag": "6uje8grpfgY2kxKODMXXluz9wAg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "W6Nr8Q15Srg"
+        "videoId": "XZPSPVuQxlc"
       },
       "snippet": {
-        "publishedAt": "2023-02-17T00:39:43Z",
-        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-        "title": "John John Florence vs Nat Young | Hurley Pro Sunset Beach 2023 - Round of 16 Heat Replay",
-        "description": "Heat Replay of John John Florence vs Nat Young at the Hurley Pro Sunset Beach 2023 - Round of 16 Limited-edition 2023 ...",
+        "publishedAt": "2021-08-24T04:25:04Z",
+        "channelId": "UCpsHGNpMzF8FBWb4cfSTv3Q",
+        "title": "해외에서만가능한 서핑",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/W6Nr8Q15Srg/default.jpg",
+            "url": "https://i.ytimg.com/vi/XZPSPVuQxlc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/W6Nr8Q15Srg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XZPSPVuQxlc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/W6Nr8Q15Srg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XZPSPVuQxlc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "World Surf League",
+        "channelTitle": "갓오브썬",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-02-17T00:39:43Z"
+        "publishTime": "2021-08-24T04:25:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "vJLc_Ng36ALXzBOb4X4E8ynZv3k",
+      "etag": "eqR9wlNGWVgSKWD6WsmdAd8Ne-4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "P25TrnU_50M"
+        "videoId": "thkTyP5UOMQ"
       },
       "snippet": {
-        "publishedAt": "2023-02-14T20:53:57Z",
-        "channelId": "UCf5CA0OsvhhU-6AcSjT1oKQ",
-        "title": "Biggest Wipeouts of Winter 2023 !!! Shorebreak Smoookifications !!!",
-        "description": "The best shorebreak wipeouts captured during the run of swells this winter here in Southern California. Everyone charging next ...",
+        "publishedAt": "2022-11-10T13:00:29Z",
+        "channelId": "UCwgtORdDtUKhpjE1VBv6XfA",
+        "title": "Surfing in LA🏄‍♂️🌊 We’re stoked guys😆 | Johnny&#39;s Communication Center (JCC) Ep.35",
+        "description": "JCC #Surfing #LA #TAEIL #JOHNNY #TAEYONG #JAEHYUN #NCT #NCT127 NCT Official http://www.youtube.com/nctsmtown ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/P25TrnU_50M/default.jpg",
+            "url": "https://i.ytimg.com/vi/thkTyP5UOMQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/P25TrnU_50M/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/thkTyP5UOMQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/P25TrnU_50M/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/thkTyP5UOMQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BEEFS T.V.",
+        "channelTitle": "NCT",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-02-14T20:53:57Z"
+        "publishTime": "2022-11-10T13:00:29Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "BiifKk5jjpwYeYhXTEEcd0x7j3I",
+      "etag": "4vx2jsYQTzhLBU0VC7BppbKbXEc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "NXitd2xH0xs"
+        "videoId": "AfaL_jzHV1k"
       },
       "snippet": {
-        "publishedAt": "2023-02-17T04:01:42Z",
-        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-        "title": "WATCH LIVE Hurley Pro Sunset Beach 2023 - Day 3",
-        "description": "Limited-edition 2023 Official Championship Tour tees available now: ...",
+        "publishedAt": "2022-08-06T12:11:03Z",
+        "channelId": "UCs9EIuc9et58DJhqPgEMaxw",
+        "title": "양양으로 첫 서핑 배우러 가시는 분들 극공감 영상",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/NXitd2xH0xs/default.jpg",
+            "url": "https://i.ytimg.com/vi/AfaL_jzHV1k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/NXitd2xH0xs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/AfaL_jzHV1k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/NXitd2xH0xs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/AfaL_jzHV1k/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "World Surf League",
+        "channelTitle": "녹기Knockki",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-02-17T04:01:42Z"
+        "publishTime": "2022-08-06T12:11:03Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "vapCqabtDaBUO5TjSszCiL-75uE",
+      "etag": "y-EAiEIY_yb3UIAQ7K_EqDODrFo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "0O5lH5r89C0"
+        "videoId": "RnEsA7rB0SE"
       },
       "snippet": {
-        "publishedAt": "2023-02-17T03:54:24Z",
-        "channelId": "UChuLeaTGRcfzo0UjL-2qSbQ",
-        "title": "The Catch Up Day 3 - Hurley Pro Sunset Beach",
-        "description": "Sunset Beach powered up on Day 3. With star-studded matchups across the bracket, we saw everything from stand up barrels to ...",
+        "publishedAt": "2021-07-21T13:42:27Z",
+        "channelId": "UCM9MPGAGS-StU5swPiZHnHg",
+        "title": "서핑 월드 챔피언만 무려 11회를 차지한 역사상 가장 위대한 서퍼 켈리 슬래이터 🏄‍♂️",
+        "description": "서핑 #서퍼 #켈리슬래이터 11회 서핑 월드 챔피언 켈리 슬래이터 역사상 가장 위대한 서퍼 켈리 슬래이터 ⚠️스틸 더 쇼 steal the ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0O5lH5r89C0/default.jpg",
+            "url": "https://i.ytimg.com/vi/RnEsA7rB0SE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0O5lH5r89C0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RnEsA7rB0SE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0O5lH5r89C0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/RnEsA7rB0SE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "World Surf League",
+        "channelTitle": "스틸 더 쇼 Steal the show",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-02-17T03:54:24Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "L2Q87A7Hq_mTrCE55zlyG1Z3bd8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "wxBtwCZtDAg"
-      },
-      "snippet": {
-        "publishedAt": "2018-11-21T01:00:11Z",
-        "channelId": "UCZFhj_r-MjoPCFVUo3E1ZRg",
-        "title": "13-Year-Old FEARLESS Surfing Prodigy",
-        "description": "NEW No Days Off gear: https://whistle.video/NoDaysOffMerch 13-Year-Old Kai Williams was born to surf. Nobody works harder at ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/wxBtwCZtDAg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/wxBtwCZtDAg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/wxBtwCZtDAg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Whistle",
-        "liveBroadcastContent": "none",
-        "publishTime": "2018-11-21T01:00:11Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "LN4iZmBu8mF30WBT8-7i1OVbphA",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "cHkiIOpZhjA"
-      },
-      "snippet": {
-        "publishedAt": "2021-04-12T15:29:56Z",
-        "channelId": "UCf5CA0OsvhhU-6AcSjT1oKQ",
-        "title": "Surfing and Skimboarding WEDGE on massive HIGH TIDE !!!  - Spring 2021",
-        "description": "Kalani Robb, Ben Gravy, Blair Conklin, Tyler Stanaland, Trevor Stanaland, George Bryan, Dawson Sherman surf and skim onto ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/cHkiIOpZhjA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/cHkiIOpZhjA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/cHkiIOpZhjA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "BEEFS T.V.",
-        "liveBroadcastContent": "none",
-        "publishTime": "2021-04-12T15:29:56Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "6xF35dS3x6FXAvFRho-H2iFTYcM",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ul4OVcbULIA"
-      },
-      "snippet": {
-        "publishedAt": "2023-01-16T02:14:01Z",
-        "channelId": "UCLdPicN16eAKPKir8EY1UXQ",
-        "title": "5 things I wish I knew when I started surfing",
-        "description": "Learning to surf or improving your surfing can feel like an up-hill battle at times. But there are actually some really powerful ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ul4OVcbULIA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ul4OVcbULIA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ul4OVcbULIA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Kale Brock",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-01-16T02:14:01Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "q078Bzpb28oYjZZPL6xCE4lnL2A",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "5Vwb3kPwGn4"
-      },
-      "snippet": {
-        "publishedAt": "2017-09-20T20:48:32Z",
-        "channelId": "UCW8zgx5JhvFPmIZh7NI-jrA",
-        "title": "Biggest Surfing Wipeouts #1",
-        "description": "BEST Boats Caught Inside Massive Waves - https://youtu.be/o1TLzlEvYdU 86.24K Views - Jun 10, 2022 Shoutout to: gullkullswat ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/5Vwb3kPwGn4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/5Vwb3kPwGn4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/5Vwb3kPwGn4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "SuRf, GaMe & Action",
-        "liveBroadcastContent": "none",
-        "publishTime": "2017-09-20T20:48:32Z"
+        "publishTime": "2021-07-21T13:42:27Z"
       }
     }
   ]

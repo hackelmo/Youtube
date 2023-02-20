@@ -1,220 +1,215 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "7BHalUuUuUhEurcgCJE7Gxt0Dbs",
+  "etag": "ojkMP94--KEJarh0QiZPGxPyDuw",
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "iuXeoSQ7vl3wO2BAtUhDSINgUbc",
+      "etag": "ipSmqHVTsHZk1l-P4GQgTDOjLEk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "eIho2S0ZahI"
+        "videoId": "DA0reUVPnbg"
       },
       "snippet": {
-        "publishedAt": "2014-06-27T14:18:00Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "How to speak so that people want to listen | Julian Treasure",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nHave you ever felt like you're talking, but nobody is listening? Here's Julian Treasure to help you fix that. As the sound expert demonstrates some useful vocal exercises and shares tips on how to speak with empathy, he offers his vision for a sonorous world of listening and understanding.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "publishedAt": "2019-10-09T00:57:22Z",
+        "channelId": "UCvVUEoHQDo7c2F9ws3XhrDA",
+        "title": "[왕 초보 서핑강좌] #1 서핑고수의 패들링 잘하는 방법 ENG SUB",
+        "description": "지나서프의 서핑 A to Z 클래스에는 아주 자세하고 빠방한 커리큘럼으로 준비되어있어용!\n[클래스 101 온라인 강의]\nhttps://class101.app/e/jinasurf-class\n\n드디어 첫번째 #왕초보서핑레슨 업로드!\n#서핑강좌 서핑의 기본, 패들 에 대해 공부해보아요. ( •̀.̫•́)✧  \n\n유튜브 랜선 강의지만 실제로 제가 서핑 강습때 가르쳐 드리는 것들\n몽땅!! 때려 박았답니다!!! (ง •̀_•́)ง\n\n내용 정리\nPART 1. 패들의 기본 자세\n1. 몸위치 2.허리 들기 3.노즈는 한뼘 4.흔들리지 않는 밸런스 5. 다리 모으기\nPART 2. 속도내는 방법\n1. 한팔씩 길고 깊게 2.돌아올 땐 옆으로 (팔꿈치 위치 주의)\n* 초보자들이 가장 많이 하는 실수 3가지\n1.짧게 얕게 패들하지 않기 2.물튀게 패들하지 않기 3.뻣뻣하게 패들하지 않기\n\n궁금한 점 , 다음에 보고싶은 강의\n댓글 달아주시면 참고해서 제작해볼게요\n감사합니다~~~ ( ღ'ᴗ'ღ )\n\n\n-location : Noosa Hojusurfing Camp\n-Surfer : Jina Kim\n-Swim wear : Barrel\n-Surfboard : Finesurfcraft by AndrewWarhurst \n\nInstagram : @jinasurf",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/default.jpg",
+            "url": "https://i.ytimg.com/vi/DA0reUVPnbg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DA0reUVPnbg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DA0reUVPnbg/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/DA0reUVPnbg/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/eIho2S0ZahI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DA0reUVPnbg/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "TED",
+        "channelTitle": "지나서프JINASURF",
         "liveBroadcastContent": "none",
-        "publishTime": "2014-06-27T14:18:00Z"
+        "publishTime": "2019-10-09T00:57:22Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "uEoMSdxULBy0Ni05do5C5-VxKEI",
+      "etag": "rflGeXKz5USgGEaTt036rz_JyVs",
       "id": {
         "kind": "youtube#video",
-        "videoId": "P_6vDLq64gE"
+        "videoId": "-JP8AGJwj-g"
       },
       "snippet": {
-        "publishedAt": "2011-10-13T19:33:04Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "How to spot a liar | Pamela Meyer",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nOn any given day we're lied to from 10 to 200 times, and the clues to detect those lies can be subtle and counter-intuitive. Pamela Meyer, author of \"Liespotting,\" shows the manners and \"hotspots\" used by those trained to recognize deception -- and she argues honesty is a value worth preserving. (Contains mature content)\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "publishedAt": "2019-10-25T14:07:22Z",
+        "channelId": "UCvVUEoHQDo7c2F9ws3XhrDA",
+        "title": "[왕초보 서핑강좌] #2 테이크오프 잘하는 방법 KOR/ENG",
+        "description": "지나서프의 서핑 A to Z 클래스에는 아주 자세하고 빠방한 커리큘럼으로 준비되어있어용!\n[클래스 101 온라인 강의]\nhttps://class101.app/e/jinasurf-class\n\n안녕하세요!! 두번째 #왕초보서핑레슨 업로드!\n#서핑강좌 서핑의 기본, 테이크오프 에 대해 공부해보아요. ( •̀.̫•́)✧  \n\n유튜브 랜선 강의지만 실제로 제가 서핑 강습때 가르쳐 드리는 것들\n몽땅!! 때려 박았답니다!!! (ง •̀_•́)ง\n\n\n내용 정리\nPART 1. 일반적인 테이크 오프 방법\n1. 가슴 옆에 손을 딛고 팔을 쭉 펴주세요. (*손의 위치)\n2. 두 다리를 끌어와 옆으로 쭈구려 앉아주세요. (*상체 중심)\n3. 손을 떼고 천천히 일어나주세요. (*앞중심 & 시선)\nPART 2. 왕초보 테이크오프 방법 \n1. 가슴 옆에 손을 딛고 팔을 쭉 펴주세요. \n2. 뒷발을 먼저 무릎정도 위치에 디딘 후\n2.5 앞발을 두손 사이로 끌어옵니다. \n3. 손을 떼고 천천히 일어나주세요.\n*잘못된 예 5가지\n1.레일을 잡지 마세요. \n2.무릎 꿇지마세요. \n3.무릎을 쭉 펴지마세요. \n4.상체를 숙이지 마세요. (엉덩이를 들지 마세요.) \n5.밑을 보지 마세요. (발, 보드)\nPART3 지상 트레이닝 방법\n 1-2-3-2-1 순서 (30회-100회)\n거울보고 시선과 얼굴 일직선으로 올라오기 집중!\n\n궁금한 점 , 다음에 보고싶은 강의\n댓글 달아주시면 참고해서 제작해볼게요\n감사합니다~~~ ( ღ'ᴗ'ღ )\n\n\n\n-Location : Noosa Hojusurfing Camp\n-Swim wear : 배럴 우먼 글로우 노트 원피스 옐로우\nhttps://www.getbarrel.com/shop/goodsView/0000008949\n- Shirts : 배럴 유니섹스 홀리데이 셔츠 옐로우 마린\nhttps://www.getbarrel.com/shop/goodsView/0000009566\n\nInstagram : @jinasurf\nhttps://www.instagram.com/jinasurf/",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/default.jpg",
+            "url": "https://i.ytimg.com/vi/-JP8AGJwj-g/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-JP8AGJwj-g/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-JP8AGJwj-g/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/P_6vDLq64gE/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          }
-        },
-        "channelTitle": "TED",
-        "liveBroadcastContent": "none",
-        "publishTime": "2011-10-13T19:33:04Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "-XzEGV5Th1BKTT1p18AoMko7V18",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "VRJzvJ5XPQI"
-      },
-      "snippet": {
-        "publishedAt": "2021-10-15T19:29:36Z",
-        "channelId": "UCftwRNsjfRo08xYE31tkiyw",
-        "title": "Body Language Expert Explains How to Show Confidence | WIRED",
-        "description": "Former FBI agent and body language expert Joe Navarro explains how we can project confidence through our body language. Joe takes a look at various celebrities and politicians and demonstrates the things that they do that can help them appear more confident. \r\n\r\nCheck out Joe's book \"Be Exceptional\"\r\nhttps://www.amazon.com/Be-Exceptional-Master-Traits-Extraordinary-ebook/dp/B08K93BLQP/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=\r\n\r\nhttps://www.jnforensics.com/ \r\n\r\nBooks By Joe Navarro: https://www.jnforensics.com/books\r\nJoe Navarro Body Language Academy: https://jnbodylanguageacademy.com\n\nStill haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 \r\nListen to the Get WIRED podcast  ►► https://link.chtbl.com/wired-ytc-desc\r\nWant more WIRED? Get the magazine ►► https://subscribe.wired.com/subscribe/splits/wired/WIR_YouTube?source=EDT_WIR_YouTube_0_Video_Description_ZZ\r\n\r\nFollow WIRED:\r\n\r\nInstagram ►►https://instagram.com/wired\r\nTwitter ►►http://www.twitter.com/wired\r\nFacebook ►►https://www.facebook.com/wired\r\n\r\nGet more incredible stories on science and tech with our daily newsletter: https://wrd.cm/DailyYT\r\n\r\nAlso, check out the free WIRED channel on Roku, Apple TV, Amazon Fire TV, and Android TV. \r\n\r\nABOUT WIRED\r\nWIRED is where tomorrow is realized. Through thought-provoking stories and videos, WIRED explores the future of business, innovation, and culture.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/-JP8AGJwj-g/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/VRJzvJ5XPQI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-JP8AGJwj-g/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "WIRED",
+        "channelTitle": "지나서프JINASURF",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-10-15T19:29:36Z"
+        "publishTime": "2019-10-25T14:07:22Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "DER6KDeZmrZxTwklseNnAo6h31M",
+      "etag": "k6LsseS979P6z4tT4I1zZI-Ly3Q",
       "id": {
         "kind": "youtube#video",
-        "videoId": "4jwUXV4QaTw"
+        "videoId": "iUWWWnfPqL8"
       },
       "snippet": {
-        "publishedAt": "2019-05-21T14:06:56Z",
-        "channelId": "UCftwRNsjfRo08xYE31tkiyw",
-        "title": "Former FBI Agent Explains How to Read Body Language | Tradecraft | WIRED",
-        "description": "Former FBI agent and body language expert Joe Navarro breaks down the various ways we communicate non-verbally. What does it mean when we fold our arms? Why do we interlace our fingers? Can a poker player actually hide their body language?\r\n\r\nCheck out Joe's book \"The Dictionary of Body Language\"\r\nhttps://www.jnforensics.com/ \r\nBooks By Joe Navarro:  https://www.jnforensics.com/books\r\nJoe Navarro Body Language Academy:  https://jnbodylanguageacademy.com\n\nStill haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 \r\nListen to the Get WIRED podcast  ►► https://link.chtbl.com/wired-ytc-desc\r\nWant more WIRED? Get the magazine ►► https://subscribe.wired.com/subscribe/splits/wired/WIR_YouTube?source=EDT_WIR_YouTube_0_Video_Description_ZZ\r\n\r\nGet more incredible stories on science and tech with our daily newsletter: https://wrd.cm/DailyYT\r\n\r\nAlso, check out the free WIRED channel on Roku, Apple TV, Amazon Fire TV, and Android TV. Here you can find your favorite WIRED shows and new episodes of our latest hit series Tradecraft.\r\n\r\nABOUT WIRED\r\nWIRED is where tomorrow is realized. Through thought-provoking stories and videos, WIRED explores the future of business, innovation, and culture.\n\nFormer FBI Agent Explains How to Read Body Language | Tradecraft | WIRED",
+        "publishedAt": "2017-07-27T07:30:27Z",
+        "channelId": "UCsLoTwOpElvEixfF1-O90rA",
+        "title": "엄청나게 아름답고 믿을 수 없게 아찔한, 세계적인 서퍼 가렛 맥나마라의(Garrett McNamara) 파도 타기",
+        "description": "뇌섹남 타일러의 포르투갈 여행. 전 세계 서퍼들의 파도타기 명소 포르투갈 나자레(Nazare) 해변. 미국인 서퍼 가렛 맥나마라(Garrett McNamara)의 놀라운 파도타기.\n\n\n#세계테마기행#서핑#서퍼#포르투갈나자레\n#미국인서퍼#가렛맥나마라",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/default.jpg",
+            "url": "https://i.ytimg.com/vi/iUWWWnfPqL8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/iUWWWnfPqL8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/iUWWWnfPqL8/hqdefault.jpg",
             "width": 480,
             "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/4jwUXV4QaTw/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
           }
         },
-        "channelTitle": "WIRED",
+        "channelTitle": "EBS 컬렉션 - 라이프스타일",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-05-21T14:06:56Z"
+        "publishTime": "2017-07-27T07:30:27Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Kls0EXy6Op-V0lY_pOJUEo_iWRY",
+      "etag": "oRxc5e1NbvDrm7aPxZ0QgygWI94",
       "id": {
         "kind": "youtube#video",
-        "videoId": "RcGyVTAoXEU"
+        "videoId": "EUKBEMN6HTQ"
       },
       "snippet": {
-        "publishedAt": "2013-09-03T21:19:54Z",
-        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
-        "title": "How to make stress your friend | Kelly McGonigal",
-        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nStress. It makes your heart pound, your breathing quicken and your forehead sweat. But while stress has been made into a public health enemy, new research suggests that stress may only be bad for you if you believe that to be the case. Psychologist Kelly McGonigal urges us to see stress as a positive, and introduces us to an unsung mechanism for stress reduction: reaching out to others.\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. \n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\nSubscribe to our channel: http://youtube.com/TED\n\nTED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy (https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy). For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com",
+        "publishedAt": "2018-08-10T12:43:35Z",
+        "channelId": "UCYgUhR7EGKauFXgJS0pckGg",
+        "title": "(ENG SUB) 이번 여름 필수 코스! 외국 같은 양양에서 서핑으로 더위 뿌셔봄 | 와썹맨 ep.24 | god 박준형",
+        "description": "본 영상은 나테라코리아왁스/롯데주류밀러/코오롱FNC의 유료광고를 포함하고 있습니다.\n\n요오우~ 국내 서핑 핫플 강원도 양양 다녀와썹~\n나제는surfing하고 밤에는party즐기는 완죤 캘리포니아 감성쓰 \n쭌형 서핑 쥔짜 잘하는 거 찌근 거 있는데 고프로가 바다에 빠져서 날라가쓰ㅠㅠ\n\n#와썹맨 #박준형 #god #JoonPark #스튜디오룰루랄라\n#양양 #죽도 #서핑 # #버블파티 #빙수 #먹방\n\nSurfing in Yangyang | Wassup Man ep.24\n\nYo~ I went surfing in Yangyang, Gangwon-do~\nSurfing during the day and partying at night is the Californian lifestyle. We lost our GoProㅠㅠ\n\n[와썹맨] 1화 보러가기 ▶ http://bit.ly/2LvyvyV\n[와썹맨] 2017년 ver. [사서고생_왓써맨] ▶ http://bit.ly/2AjbsSG\n[스튜디오룰루랄라] 유튜브▶ https://www.youtube.com/studiolululala",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/default.jpg",
+            "url": "https://i.ytimg.com/vi/EUKBEMN6HTQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EUKBEMN6HTQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EUKBEMN6HTQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/EUKBEMN6HTQ/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/RcGyVTAoXEU/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EUKBEMN6HTQ/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "TED",
+        "channelTitle": "와썹맨-Wassup Man",
         "liveBroadcastContent": "none",
-        "publishTime": "2013-09-03T21:19:54Z"
+        "publishTime": "2018-08-10T12:43:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bi6o3CJg2FoHu9cJ-wF7BaFd_fo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tT22SUkGcJM"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-25T05:59:11Z",
+        "channelId": "UC6i1XHFy1Ot8xSTJ_TMfv5w",
+        "title": "(부산서퍼) 2021년 06월 제주도중문 서핑 롱보드 중급 Vlog",
+        "description": "#부산서핑 #제주도서핑 #중문해수욕장",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tT22SUkGcJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tT22SUkGcJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tT22SUkGcJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tT22SUkGcJM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tT22SUkGcJM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Gomatrip고마여행",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-25T05:59:11Z"
       }
     }
   ]
