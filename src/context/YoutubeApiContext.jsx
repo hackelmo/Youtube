@@ -1,12 +1,13 @@
 import { createContext, useContext } from "react";
-import fakeYoutube from "../api/fakeYoutube";
 import Youtube from "../api/youtube";
+import fakeYoutubeClient from "../api/fakeYoutubeClient";
+import YoutubeClient from "../api/youtubeClient";
 
 const YoutubeApiContext = createContext();
 
 //인스턴스를 한번만 만들어서 value에 넣자
-// const youtube = new Youtube();
-const youtube = new fakeYoutube();
+const client = new fakeYoutubeClient();
+const youtube = new Youtube(client);
 
 export function YoutubeProvicer({ children }) {
   return (
