@@ -1,9 +1,8 @@
-import axios from "axios";
-
 export default class Youtube {
   constructor(apiClient) {
     this.apiClient = apiClient;
   }
+  //밖에서 youtube.search를 쓰면 먼저 여기로 들어온다
   async search(keyword) {
     return keyword ? this.#searchByKeyword(keyword) : this.#mostPopularVideo();
   }
