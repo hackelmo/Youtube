@@ -24,10 +24,10 @@ export default function Navbar() {
       </Link>
       <form onSubmit={handleSubmit} className="w-full flex justify-center ">
         <input
-          className="w-7/12 p-2 pl-6 outline-none bg-black text-gray-50 rounded-l-3xl"
+          className="w-7/12 p-2 pl-6 outline-none bg-zinc-900 text-gray-50 rounded-l-3xl border-zinc-700 border"
           type="text"
           value={text}
-          placeholder="Search..."
+          placeholder="검색"
           onChange={(e) => setText(e.target.value)}
         />
         <button className="px-6 bg-zinc-600 rounded-r-3xl">
