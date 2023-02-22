@@ -9,8 +9,8 @@ export default function ChannelInfo({ title, id }) {
     isLoading,
     error,
     data: url,
-  } = useQuery(["channel", id], () => {
-    return youtube.channelImageUrl(id);
+  } = useQuery(["channel", id], () => youtube.channelImageUrl(id), {
+    staleTime: 1000 * 60 * 5,
   });
 
   return (
