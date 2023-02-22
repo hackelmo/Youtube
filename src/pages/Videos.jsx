@@ -7,7 +7,7 @@ import { useYoutubeApi } from "../context/YoutubeApiContext";
 export default function Videos() {
   const { keyword } = useParams();
   const { youtube } = useYoutubeApi();
-
+  console.log("테스트 ", process.env.REACT_APP_YOUTUBE_API_KEY);
   const {
     isLoading,
     error,
