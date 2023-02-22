@@ -20,7 +20,7 @@ export default function Navbar() {
     <header className="w-full flex p-4 text-2xl border-b border-zinc-600 mb-4">
       <Link to="/" className="flex items-center">
         <BsYoutube className="text-4xl text-brand" />
-        <h1 className="ml-2 font-bold text-3xl">TaeTube</h1>
+        <h1 className="ml-2 font-bold text-3xl">HyunTube</h1>
       </Link>
       <form onSubmit={handleSubmit} className="w-full flex justify-center ">
         <input
